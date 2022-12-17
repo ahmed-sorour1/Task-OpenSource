@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.exe
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.deps.json
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.runtimeconfig.json
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.runtimeconfig.dev.json
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.dll
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\bin\Debug\netcoreapp3.1\ahmed_sorour.pdb
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.AssemblyInfo.cs
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.dll
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.pdb
+C:\Users\Lenovo\Task-OpenSource\ahmed_sorour\obj\Debug\netcoreapp3.1\ahmed_sorour.genruntimeconfig.cache
